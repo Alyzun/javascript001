@@ -6,7 +6,25 @@ let nome = "Alysson"
 let idade = 17
 
 // Console e Debug
+console.log(nome)
+console.log(idade)
+nome = "Renata"
+idade = "25"
+console.log(nome, idade)
 
+// Tipos de dados
+// text == string
+let cidade = "americana"
+
+// numérico == number
+let salario = 1500.35
+
+// booleano == boolean
+let fumante = false
+
+console.log(typeof cidade)
+console.log(typeof salario)
+console.log(typeof fumante)
 // Operadores
 //     Operador Atribuição
 //     Operadores aritméticos
